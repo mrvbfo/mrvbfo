@@ -3,7 +3,7 @@
     Graduated from <strong>Kocaeli University, Software Engineering</strong>.
     I focus primarily on <strong>Frontend development</strong> enjoying the process of creating interactive interfaces that enhance the user experience.
 </p>
-📫 How to reach me mrvbfo@gmail.com
+📫 How to reach me **mrvbfo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
